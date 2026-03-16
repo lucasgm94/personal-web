@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio – Lucas G.
+# 🌐 Personal Web
 
 Welcome to my personal portfolio website!  
 This site serves as a showcase of my professional background, technical projects, and ongoing learning journey in technology and cybersecurity.
