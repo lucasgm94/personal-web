@@ -19,7 +19,7 @@ The website is hosted with **GitHub Pages** and serves as my main online presenc
 - Integrating blog-style updates for cybersecurity notes  
 
 ## 🔗 Live Website
-👉 [[https://lucasgm94.github.io]((https://lucasgm94.github.io/personal-web/))
+👉 [[https://lucasgm94.github.io](https://lucasgm94.github.io/personal-web/)
 
 ---
 
